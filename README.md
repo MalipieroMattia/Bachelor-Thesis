@@ -7,6 +7,6 @@ This analysis builds upon the Kaggle notebook "Customer Segmentation Using K-mea
 
 ## Modifications
 In this project, I extended the original analysis by:
-- Applying additional data preprocessing steps.
-- Incorporating Principal Component Analysis (PCA) for dimensionality reduction.
+- Changing all the code from Python to R.
+- Applying additional Exploratory Data Analysis steps.
 - Refining the clustering approach with silhouette score analysis.
